@@ -1,0 +1,42 @@
+p {
+    font-family: Ubuntu;
+    text-align: justify;
+}
+
+#title h1 {
+    font-family: Creepster;
+}
+
+#title h3 {
+    font-family: Sancreek;
+}
+
+#title h6 {
+    font-family: Ubuntu;
+}
+
+#section > p {
+    opacity: 0.4;
+}
+
+#section > p.graph-scroll-active {
+    opacity: 1;
+}
+
+#sectionpie {
+    width: 340px;
+}
+
+#sectionpie > p {
+    opacity: 0.4;
+}
+
+#sectionpie > p.graph-scroll-active {
+    opacity: 1;
+}
+
+#graphicpie {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
