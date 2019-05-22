@@ -31,4 +31,10 @@ $ cd suicides
 $ npm install
 $ node start
 ```
+# Anggota Kelompok
+ Ika Oktaviani Dewi Hanifa
+ Ilham Indra Prayudhi
+ Muhammad Kharis
+ Subekti
+ Todo Parulian Simbolon
 # VisdatKelompok6fix
